@@ -24,3 +24,11 @@
 ### Step 3
 
 - Pour blended mixture into 16-oz glass.
+
+### Step 3
+
+- Top with whipped cream and chocolate.
+
+### Step 4
+
+- Top with wh
