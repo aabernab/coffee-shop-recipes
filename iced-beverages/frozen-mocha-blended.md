@@ -25,16 +25,10 @@
 
 - Pour blended mixture into 16-oz glass.
 
-<<<<<<< HEAD
 ### Step 3
 
 - Top with whipped cream and chocolate.
 
 ### Step 4
 
-- Top with wh
-=======
-### Step 4
-
 - Top with whipped cream and chocolate shavings.
->>>>>>> feature
