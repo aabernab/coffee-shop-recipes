@@ -43,4 +43,4 @@
 
 - Esta receta se crea aproximadamebte hace 100 años. (rama feature)
 
-- se agre cambio desde master por urgencia.
+- se agre cambio desde master por urgencia. (este cambio debio validarse con la gerencia de sistemas)
