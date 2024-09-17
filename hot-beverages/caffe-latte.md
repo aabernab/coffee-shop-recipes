@@ -30,3 +30,9 @@
 ### Step 5
 
 - Top with the thin layer of milk foam remaining in the container.
+
+### Step 6
+
+- Este cambio viene del usuario JCBB.
+
+- Este otro mensaje es para ver si los cambios activos.
